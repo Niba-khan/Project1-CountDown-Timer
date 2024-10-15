@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  body{
+    width: 100%;
+    height: 60vh;
+    background: linear-gradient(rgba(248, 170, 248, 0.7),rgba(226, 220, 225, 0.7)),url('https://img1.picmix.com/output/stamp/normal/3/7/2/8/1858273_b4316.gif');
+    background-size: cover;
+    background-position: center;
+  }
